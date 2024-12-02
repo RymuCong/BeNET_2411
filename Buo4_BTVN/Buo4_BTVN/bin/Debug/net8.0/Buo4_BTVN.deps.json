@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Buo4_BTVN/1.0.0": {
+        "runtime": {
+          "Buo4_BTVN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buo4_BTVN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

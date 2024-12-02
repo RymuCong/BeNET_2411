@@ -1,0 +1,14 @@
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\bin\Debug\net8.0\Buoi5_loop.exe
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\bin\Debug\net8.0\Buoi5_loop.deps.json
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\bin\Debug\net8.0\Buoi5_loop.runtimeconfig.json
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\bin\Debug\net8.0\Buoi5_loop.dll
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\bin\Debug\net8.0\Buoi5_loop.pdb
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\Buoi5_loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\Buoi5_loop.AssemblyInfoInputs.cache
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\Buoi5_loop.AssemblyInfo.cs
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\Buoi5_loop.csproj.CoreCompileInputs.cache
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\Buoi5_loop.dll
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\refint\Buoi5_loop.dll
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\Buoi5_loop.pdb
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\Buoi5_loop.genruntimeconfig.cache
+F:\C_Sharp\Learn_T3h\Buoi5_loop\Buoi5_loop\obj\Debug\net8.0\ref\Buoi5_loop.dll

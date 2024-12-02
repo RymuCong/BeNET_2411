@@ -1,0 +1,14 @@
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\bin\Debug\net8.0\Buoi4_CauDieuKien.exe
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\bin\Debug\net8.0\Buoi4_CauDieuKien.deps.json
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\bin\Debug\net8.0\Buoi4_CauDieuKien.runtimeconfig.json
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\bin\Debug\net8.0\Buoi4_CauDieuKien.dll
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\bin\Debug\net8.0\Buoi4_CauDieuKien.pdb
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\Buoi4_CauDieuKien.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\Buoi4_CauDieuKien.AssemblyInfoInputs.cache
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\Buoi4_CauDieuKien.AssemblyInfo.cs
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\Buoi4_CauDieuKien.csproj.CoreCompileInputs.cache
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\Buoi4_CauDieuKien.dll
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\refint\Buoi4_CauDieuKien.dll
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\Buoi4_CauDieuKien.pdb
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\Buoi4_CauDieuKien.genruntimeconfig.cache
+F:\C_Sharp\Learn_T3h\Buoi4_CauDieuKien\Buoi4_CauDieuKien\obj\Debug\net8.0\ref\Buoi4_CauDieuKien.dll

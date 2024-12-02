@@ -1,0 +1,14 @@
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\bin\Debug\net8.0\Buo4_BTVN.exe
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\bin\Debug\net8.0\Buo4_BTVN.deps.json
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\bin\Debug\net8.0\Buo4_BTVN.runtimeconfig.json
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\bin\Debug\net8.0\Buo4_BTVN.dll
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\bin\Debug\net8.0\Buo4_BTVN.pdb
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\Buo4_BTVN.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\Buo4_BTVN.AssemblyInfoInputs.cache
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\Buo4_BTVN.AssemblyInfo.cs
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\Buo4_BTVN.csproj.CoreCompileInputs.cache
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\Buo4_BTVN.dll
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\refint\Buo4_BTVN.dll
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\Buo4_BTVN.pdb
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\Buo4_BTVN.genruntimeconfig.cache
+F:\C_Sharp\Learn_T3h\Buo4_BTVN\Buo4_BTVN\obj\Debug\net8.0\ref\Buo4_BTVN.dll
