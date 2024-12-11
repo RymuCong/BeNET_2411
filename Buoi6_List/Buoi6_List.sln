@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi6_List", "Buoi6_List\Buoi6_List.csproj", "{FECF8670-9C2A-4CA9-8407-0FC65448606E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECF8670-9C2A-4CA9-8407-0FC65448606E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECF8670-9C2A-4CA9-8407-0FC65448606E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECF8670-9C2A-4CA9-8407-0FC65448606E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECF8670-9C2A-4CA9-8407-0FC65448606E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

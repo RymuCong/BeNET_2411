@@ -1,0 +1,15 @@
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.GeneratedMSBuildEditorConfig.editorconfig
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.AssemblyInfoInputs.cache
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.AssemblyInfo.cs
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.csproj.CoreCompileInputs.cache
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.sourcelink.json
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\bin\Debug\net8.0\Buoi6_List.exe
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\bin\Debug\net8.0\Buoi6_List.deps.json
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\bin\Debug\net8.0\Buoi6_List.runtimeconfig.json
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\bin\Debug\net8.0\Buoi6_List.dll
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\bin\Debug\net8.0\Buoi6_List.pdb
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.dll
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\refint\Buoi6_List.dll
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.pdb
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\Buoi6_List.genruntimeconfig.cache
+F:\T3H-C#\BeNET_2411\Buoi6_List\Buoi6_List\obj\Debug\net8.0\ref\Buoi6_List.dll
