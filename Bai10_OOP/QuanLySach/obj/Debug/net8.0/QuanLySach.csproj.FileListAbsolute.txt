@@ -1,0 +1,15 @@
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\bin\Debug\net8.0\QuanLySach.exe
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\bin\Debug\net8.0\QuanLySach.deps.json
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\bin\Debug\net8.0\QuanLySach.runtimeconfig.json
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\bin\Debug\net8.0\QuanLySach.dll
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\bin\Debug\net8.0\QuanLySach.pdb
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.AssemblyInfoInputs.cache
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.AssemblyInfo.cs
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.csproj.CoreCompileInputs.cache
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.sourcelink.json
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.dll
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\refint\QuanLySach.dll
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.pdb
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\QuanLySach.genruntimeconfig.cache
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLySach\obj\Debug\net8.0\ref\QuanLySach.dll
