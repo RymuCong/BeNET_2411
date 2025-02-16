@@ -1,0 +1,15 @@
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\bin\Debug\net8.0\QuanLyThuCung.exe
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\bin\Debug\net8.0\QuanLyThuCung.deps.json
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\bin\Debug\net8.0\QuanLyThuCung.runtimeconfig.json
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\bin\Debug\net8.0\QuanLyThuCung.dll
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\bin\Debug\net8.0\QuanLyThuCung.pdb
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.AssemblyInfoInputs.cache
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.AssemblyInfo.cs
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.csproj.CoreCompileInputs.cache
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.sourcelink.json
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.dll
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\refint\QuanLyThuCung.dll
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.pdb
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\QuanLyThuCung.genruntimeconfig.cache
+F:\C_Sharp\Learn_T3h\Bai10_OOP\QuanLyThuCung\obj\Debug\net8.0\ref\QuanLyThuCung.dll
